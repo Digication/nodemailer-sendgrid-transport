@@ -11,3 +11,6 @@ https://github.com/Starchup/nodemailer-sendgrid-transport
 
 ## [0.3.4] - 2021-1-16
 Updated `main` field in package.json
+
+## [0.4.0-fixed] - 2021-1-21
+Fix issue calling sendgrid, pass callback to the method
